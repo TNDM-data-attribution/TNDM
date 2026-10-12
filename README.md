@@ -1,6 +1,6 @@
 # Tensor Network Datamodels for Training Data Attribution
 
-Implementation accompanying a paper under review. It contains the
+Implementation accompanying the paper TNDM. It contains the
 code and the saved results behind the paper's tables and figures.
 
 ## What is a tensor network datamodel?
